@@ -1,0 +1,5 @@
+1;La setmana té 7 dies;V
+2;La setmana té 8 dies;F
+3;Avui és black Friday;F
+4;El inglés se enseña mal;V
+5;Et pots graduar sense aprovar-ho tot;V
